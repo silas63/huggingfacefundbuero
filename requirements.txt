@@ -1,0 +1,4 @@
+streamlit>=1.39,<2
+transformers>=5.17,<6
+torch>=2.14,<3
+pillow>=10.4,<12
