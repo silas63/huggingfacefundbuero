@@ -1,0 +1,10 @@
+0 Rucksack
+1 Schlüssel
+2 Portemonnaie
+3 Handy
+4 Kopfhörer
+5 Brille
+6 Trinkflasche
+7 Jacke
+8 Schuhe
+9 Buch
